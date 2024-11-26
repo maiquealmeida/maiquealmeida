@@ -10,7 +10,7 @@ I'm a nerd, a husband, a father, and an entrepreneur. For over 25 years, I've be
 * ✉️  You can contact me at [maique.malmeida@gmail.com](mailto:maique.malmeida@gmail.com)
 * 🧠  I'm learning systems and tools programming for artificial intelligence
 * 🤝  I'm open to collaborating on artificial intelligence projects
-* ⚡  At 40, I discovered that I am autistic. Now a lot of things make sense! 😅
+* 🧩  At 40, I discovered that I am autistic. Now a lot of things make sense! 😅
 
 <a href="https://www.github.com/maiquealmeida" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/maiquealmeida?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a><a href="https://www.x.com/omaiquealmeida" target="_blank" rel="noreferrer"><img
