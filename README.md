@@ -12,7 +12,7 @@ I'm a nerd 🖖, a husband 👩‍❤️‍👨, a girl dad 🧑‍🍼, and an 
 * 🤝  I'm open to collaborating on artificial intelligence projects
 * 🧩  At 40, I discovered that I am autistic, through professional diagnostic assessments. Now a lot of things make sense! 😅
 
-## PT-BR
+## 🇧🇷 PT-BR
 
 Olá ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)Eu sou Maique Almeida
 ======================================================================================================================================
