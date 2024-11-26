@@ -4,13 +4,29 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Senior Software Engineer | Mobile | Backend
 ------------------------
 
-I'm a nerd, a husband, a father, and an entrepreneur. For over 25 years, I've been creating software that solves problems. I'm a practitioner of the 'Get Up and Get Moving' method.
+I'm a nerd 🖖, a husband 👩‍❤️‍👨, a girl dad 🧑‍🍼, and an entrepreneur 🚀. For over 25 years, I've been creating software that solves problems. I'm a practitioner of the 'Get Up and Get Moving' method.
 
 * 🌍  I'm based in Cuiabá/MT - Brazil
 * ✉️  You can contact me at [maique.malmeida@gmail.com](mailto:maique.malmeida@gmail.com)
 * 🧠  I'm learning systems and tools programming for artificial intelligence
 * 🤝  I'm open to collaborating on artificial intelligence projects
 * 🧩  At 40, I discovered that I am autistic, through professional diagnostic assessments. Now a lot of things make sense! 😅
+
+## PT-BR
+
+Olá ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)Me chamo Maique Almeida
+======================================================================================================================================
+
+Engenheiro de Software Sênior | Mobile | Backend
+------------------------
+
+Sou nerd 🖖, marido 👩‍❤️‍👨, pai de menina 🧑‍🍼 e empreendedor 🚀. Por mais de 25 anos, venho criando software que resolve problemas. Sou praticante do método 'Levanta e Vai'.
+
+🌍  Moro em Cuiabá/MT - Brasil
+✉️  Você pode entrar em contato comigo em maique.malmeida@gmail.com
+🧠  Estou aprendendo programação de sistemas e ferramentas para inteligência artificial
+🤝  Estou aberto a colaborar em projetos de inteligência artificial
+🧩  Aos 40 anos, descobri que sou autista, através de avaliações diagnósticas profissionais. Agora muita coisa faz sentido! 😅
 
 <a href="https://www.github.com/maiquealmeida" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/maiquealmeida?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a><a href="https://www.x.com/omaiquealmeida" target="_blank" rel="noreferrer"><img
