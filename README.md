@@ -22,11 +22,13 @@ Engenheiro de Software Sênior | Mobile | Backend
 
 Sou nerd 🖖, marido 👩‍❤️‍👨, pai de menina 🧑‍🍼 e empreendedor 🚀. Por mais de 25 anos, venho criando software que resolve problemas. Sou praticante do método 'Levanta e Vai'.
 
-🌍  Moro em Cuiabá/MT - Brasil
-✉️  Você pode entrar em contato comigo em maique.malmeida@gmail.com
-🧠  Estou aprendendo programação de sistemas e ferramentas para inteligência artificial
-🤝  Estou aberto a colaborar em projetos de inteligência artificial
-🧩  Aos 40 anos, descobri que sou autista, através de avaliações diagnósticas profissionais. Agora muita coisa faz sentido! 😅
+* 🌍  Moro em Cuiabá/MT - Brasil
+* ✉️  Você pode entrar em contato comigo em maique.malmeida@gmail.com
+* 🧠  Estou aprendendo programação de sistemas e ferramentas para inteligência artificial
+* 🤝  Estou aberto a colaborar em projetos de inteligência artificial
+* 🧩  Aos 40 anos, descobri que sou autista, através de avaliações diagnósticas profissionais. Agora muita coisa faz sentido! 😅
+
+------------------------
 
 <a href="https://www.github.com/maiquealmeida" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/maiquealmeida?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a><a href="https://www.x.com/omaiquealmeida" target="_blank" rel="noreferrer"><img
