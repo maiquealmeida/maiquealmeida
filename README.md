@@ -1,4 +1,4 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Maique Almeida
+Hi! I'm Maique Almeida
 ======================================================================================================================================
 
 Senior Software Engineer | Mobile | Backend
@@ -14,7 +14,7 @@ I'm a nerd 🖖, a husband 👩‍❤️‍👨, a girl dad 🧑‍🍼, and an 
 
 ## 🇧🇷 PT-BR
 
-Olá ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)Eu sou Maique Almeida
+Olá! Eu sou Maique Almeida
 ======================================================================================================================================
 
 Engenheiro de Software Sênior | Mobile | Backend
