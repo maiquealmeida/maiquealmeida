@@ -10,7 +10,7 @@ I'm a nerd 🖖, a husband 👩‍❤️‍👨, a girl dad 🧑‍🍼, and an 
 * ✉️  You can contact me at [maique.malmeida@gmail.com](mailto:maique.malmeida@gmail.com)
 * 🧠  I'm learning systems and tools programming for artificial intelligence
 * 🤝  I'm open to collaborating on artificial intelligence projects
-* 🧩  At 40, I discovered that I am autistic, through professional diagnostic assessments. Now a lot of things make sense! 😅
+* 🧩  Fun fact about me: At 40, I discovered that I am autistic, through professional diagnostic assessments. Now a lot of things make sense! 😅
 
 ## 🇧🇷 PT-BR
 
@@ -26,7 +26,7 @@ Sou nerd 🖖, marido 👩‍❤️‍👨, pai de menina 🧑‍🍼 e empreend
 * ✉️  Você pode entrar em contato comigo em maique.malmeida@gmail.com
 * 🧠  Estou aprendendo programação de sistemas e ferramentas para inteligência artificial
 * 🤝  Estou aberto a colaborar em projetos de inteligência artificial
-* 🧩  Aos 40 anos, descobri que sou autista, através de avaliações diagnósticas com profissionais. Agora muita coisa faz sentido! 😅
+* 🧩  Fato curioso sobre mim: Aos 40 anos, descobri que sou autista, através de avaliações diagnósticas com profissionais. Agora muita coisa faz sentido! 😅
 
 ------------------------
 
