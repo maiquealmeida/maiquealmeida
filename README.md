@@ -20,7 +20,7 @@ Olá ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9
 Engenheiro de Software Sênior | Mobile | Backend
 ------------------------
 
-Sou nerd 🖖, marido 👩‍❤️‍👨, pai de menina 🧑‍🍼 e empreendedor 🚀. Por mais de 25 anos, venho criando software que resolve problemas. Sou praticante do método 'Tira a Bunda da Cadeira'.
+Nerd 🖖, marido 👩‍❤️‍👨, pai de menina 🧑‍🍼 e empreendedor 🚀. Por mais de 25 anos, venho criando aplicativos que resolvem problemas. Sou praticante do método 'Tira a Bunda da Cadeira'.
 
 * 🌍  Moro em Cuiabá/MT - Brasil
 * ✉️  Você pode entrar em contato comigo em maique.malmeida@gmail.com
