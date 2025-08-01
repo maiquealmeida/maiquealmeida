@@ -4,7 +4,7 @@ Hi! I'm Maique Almeida
 Senior Software Engineer | Mobile | Backend
 ------------------------
 
-I'm a nerd 🖖, a husband 👩‍❤️‍👨, a girl dad 🧑‍🍼, and an entrepreneur 🚀. For over 25 years, I've been creating software that solves problems. I'm a practitioner of the 'Get Up and Get Moving' method.
+I'm a nerd 🖖, a husband 👩‍❤️‍👨, a girl dad 🧑‍🍼, and an Intrapreneur 🚀. For over 25 years, I've been creating software that solves problems. I'm a practitioner of the 'Get Up and Get Moving' method.
 
 * 🌍  I'm based in Cuiabá/MT - Brazil
 * ✉️  You can contact me at [maique.malmeida@gmail.com](mailto:maique.malmeida@gmail.com)
@@ -20,7 +20,7 @@ Olá! Eu sou Maique Almeida
 Engenheiro de Software Sênior | Mobile | Backend
 ------------------------
 
-Nerd 🖖, marido 👩‍❤️‍👨, pai de menina 🧑‍🍼 e empreendedor 🚀. Por mais de 25 anos, venho criando aplicativos que resolvem problemas. Sou praticante do método 'Tira a Bunda da Cadeira'.
+Nerd 🖖, marido 👩‍❤️‍👨, pai de menina 🧑‍🍼 e intra-empreendedor 🚀. Por mais de 25 anos, venho criando aplicativos que resolvem problemas. Sou praticante do método 'Tira a Bunda da Cadeira'.
 
 * 🌍  Moro em Cuiabá/MT - Brasil
 * ✉️  Você pode entrar em contato comigo em maique.malmeida@gmail.com
