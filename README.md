@@ -11,6 +11,7 @@ I'm a nerd 🖖, a husband 👩‍❤️‍👨, a girl dad 🧑‍🍼, and an 
 * 🧠  I'm learning systems and tools programming for artificial intelligence
 * 🤝  I'm open to collaborating on artificial intelligence projects
 * 🧩  Fun fact about me: At 40, I discovered that I am autistic, through professional diagnostic assessments. Now a lot of things make sense! 😅
+* 💾  Fun technical fact about me: I developed my first software when I was 9 years old (in 1993) — an inventory control system that tracked products coming in and out, built with Clipper 5.2, on a 486 DX2-66 MHz with an amazing 12MB of RAM. It was used for years at my family’s beverage distribution business and made a tedious stock management process much easier, which until then was done on paper cards.
 
 ## 🇧🇷 PT-BR
 
@@ -27,6 +28,7 @@ Nerd 🖖, marido 👩‍❤️‍👨, pai de menina 🧑‍🍼 e intra-empree
 * 🧠  Estou aprendendo programação de sistemas e ferramentas para inteligência artificial
 * 🤝  Estou aberto a colaborar em projetos de inteligência artificial
 * 🧩  Fato curioso sobre mim: Aos 40 anos, descobri que sou autista, através de avaliações diagnósticas com profissionais. Agora muita coisa faz sentido! 😅
+* 💾  Fato técnico curioso sobre mim: Desenvolvi meu primeiro software aos 9 anos de idade (em 1993) - Um controle de estoque com registro de entradas e saídas de produtos, desenvolvido em Clipper 5.2, em um 486 DX2-66 Mhz e incríveis 12Mb de memória RAM. Ele foi utilizado por anos na distribuidora de bebidas da minha família, e otimizou um processo tedioso de controle de estoque que, até então, era feito em fichas de papel.
 
 ------------------------
 
