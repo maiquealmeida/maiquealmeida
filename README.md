@@ -11,7 +11,7 @@ I'm a nerd 🖖, a husband 👩‍❤️‍👨, a girl dad 🧑‍🍼, and an 
 * 🧠  I'm learning systems and tools programming for artificial intelligence
 * 🤝  I'm open to collaborating on artificial intelligence projects
 * 🧩  Fun fact about me: At 40, I discovered that I am autistic, through professional diagnostic assessments. Now a lot of things make sense! 😅
-* 💾  Fun technical fact about me: I developed my first software when I was 9 years old (in 1993) — an inventory control system that tracked products coming in and out, built with Clipper 5.2, on a 486 DX2-66 MHz with an amazing 12MB of RAM. It was used for years at my family’s beverage distribution business and made a tedious stock management process much easier, which until then was done on paper cards.
+* 💾  Fun technical fact about me: I developed my first software when I was 9 years old (in 1993) - an inventory control system that tracked products coming in and out, built with Clipper 5.2, on a 486 DX2-66 MHz with an amazing 12MB of RAM. It was used for years at my family’s beverage distribution business and made a tedious stock management process much easier, which until then was done on paper cards.
 
 ## 🇧🇷 PT-BR
 
