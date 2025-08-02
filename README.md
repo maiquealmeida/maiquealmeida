@@ -27,7 +27,7 @@ Nerd 🖖, marido 👩‍❤️‍👨, pai de menina 🧑‍🍼 e intra-empree
 * ✉️  Você pode entrar em contato comigo em maique.malmeida@gmail.com
 * 🧠  Estou aprendendo programação de sistemas e ferramentas para inteligência artificial
 * 🤝  Estou aberto a colaborar em projetos de inteligência artificial
-* 🧩  Fato curioso sobre mim: Aos 40 anos, descobri que sou autista, através de avaliações diagnósticas com profissionais. Agora muita coisa faz sentido! 😅
+* 🧩  Fato curioso sobre mim: Aos 40 anos descobri que sou autista, através de avaliações diagnósticas com profissionais. Agora muita coisa faz sentido! 😅
 * 💾  Fato técnico curioso sobre mim: Desenvolvi meu primeiro software aos 9 anos de idade (em 1993) - Um controle de estoque com registro de entradas e saídas de produtos, desenvolvido em Clipper 5.2, em um 486 DX2-66 Mhz e incríveis 12Mb de memória RAM. Ele foi utilizado por anos na distribuidora de bebidas da minha família, e otimizou um processo tedioso de controle de estoque que, até então, era feito em fichas de papel.
 
 ------------------------
